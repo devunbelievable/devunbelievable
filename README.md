@@ -7,17 +7,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devunbelievable&label=Profile%20views&color=0e75b6&style=flat" alt="devunbelievable" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devunbelievable" alt="devunbelievable" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devunbelievable" alt="devunbelievable" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me [quansy.wsws@gmail.com](mailto:quansy.wsws@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alangquansy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alangquansy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/monga_monga_mon1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monga_monga_mon1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user7704pw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7704pw" height="30" width="40" /></a>
+<h3 align="left">🧩 Connect with me:</h3>
+<p align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin: 1rem 0;">
+  <a href="https://linkedin.com/in/alangquansy" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" />
+  </a>
+  <a href="https://www.hackerrank.com/monga_monga_mon1" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" width="50" />
+  </a>
+  <a href="https://www.leetcode.com/user7704pw" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" width="50" />
+  </a>
 </p>
 
 ## Programming languages
