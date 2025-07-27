@@ -18,3 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devunbelievable&show_icons=true&locale=en" alt="devunbelievable" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devunbelievable&" alt="devunbelievable" /></p>
+
+---
+
+> *"Code không chỉ là chạy được, mà còn phải dễ đọc, dễ bảo trì và mở rộng."*
